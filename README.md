@@ -12,3 +12,4 @@ i am kind of a beginner to CAD, ( although it doesn't look like I am a beginner 
 
 <img width="800" height="657" alt="Screenshot 2026-09-23 001843" src="https://github.com/user-attachments/assets/8b1466cc-a1f1-4884-bb53-5284aa7bd96f" />
 <img width="1919" height="1056" alt="Screenshot 2026-09-23 203800" src="https://github.com/user-attachments/assets/12ec01a5-c53b-4b52-a2aa-e0e39f034dba" />
+<img width="1031" height="256" alt="Screenshot 2026-11-18 023632" src="https://github.com/user-attachments/assets/228aab58-d534-4272-94f3-e9f9fe2d078d" />
